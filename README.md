@@ -1,4 +1,12 @@
 # mekongTSS
+# [geeguide](/README.md)
+
+# Monitoring of Suspended Sediment in the Mekong Delta (Vietnam) Using Landsat and Google Earth Engine 
+# If you are an GEE user, please go to this link:
+https://code.earthengine.google.com/b4ddb93eb867efa6ebc6081a17cebe25
+
+# GEE Script:
+# Adapted from (https://www.mdpi.com/2072-4292/10/6/909)
 
 var lmbRegion = ee.FeatureCollection('ft:1FOW0_lYQNG3ku2ffNyoORbzDXglPvfMyXmZRb8dj');
 

@@ -3,8 +3,7 @@
 
 # Monitoring of Suspended Sediment in the Mekong Delta (Vietnam) Using Landsat and Google Earth Engine 
 
-![fig3](https://user-images.githubusercontent.com/40456844/65582427-9ee74580-dfa7-11e9-9eae-0dd0a3cdc6bb.jpg)
-
+![image](https://user-images.githubusercontent.com/40456844/75959535-03141b00-5ef1-11ea-8a2a-e0a783f58872.png)
 
 # If you are an GEE user, please go to this link:
 https://code.earthengine.google.com/b4ddb93eb867efa6ebc6081a17cebe25

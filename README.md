@@ -1,5 +1,5 @@
 # mekongTSS
-# [geeguide](/README.md)
+# Script Documentation
 
 # Monitoring of Suspended Sediment in the Mekong Delta (Vietnam) Using Landsat and Google Earth Engine 
 
